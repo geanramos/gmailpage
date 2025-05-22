@@ -157,7 +157,7 @@ font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif;
 font-size: 24px;
 font-weight: 700;
 letter-spacing: normal;
-line-height: 120%;
+line-height: 1.2;
 text-align: center;
 }
 
@@ -167,7 +167,7 @@ direction: ltr;
 font-size: 14px;
 font-weight: 400;
 letter-spacing: 0;
-line-height: 120%;
+line-height: 1.2;
 text-align: left;
 }
 
@@ -181,7 +181,7 @@ direction: ltr;
 font-size: 10px;
 font-weight: 400;
 letter-spacing: 0;
-line-height: 120%;
+line-height: 1.2;
 text-align: center;
 }
 
