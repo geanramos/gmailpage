@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<!-- index.html inicio -->
+<div class="gcr-bloco gcr-bloco-4 gcr-paragraph">
+<ul style="margin-top: 0; margin-bottom: 0; list-style-type: revert;">
+{% for post in site.posts %}<li style="Margin: 0 0 0 0;"><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
+<!--<li style="Margin: 0 0 0 0;">Esta é uma lista não ordenada</li>-->
+</ul>
+</div>
+<!-- index.html final -->

@@ -1,0 +1,26 @@
+{% include head.html %}
+<body class="body" style="background-color: #ddd; margin: 0; padding: 0; -webkit-text-size-adjust: none; text-size-adjust: none;">
+<div class="preheader" style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">{{ page.description }}</div>
+<table align="center" class="nl-container" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ddd;">
+<tbody>
+<tr>
+<td>
+<table align="center" class="row row-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<tbody>
+<tr>
+<td>
+{% include header.html %}
+<!-- index.html inicio -->
+<table align="center" class="heading_block block-3" width="100%" border="0" cellpadding="15" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<tr>
+<td align="center" class="pad">
+<h1 style="margin: 0; color: #00f; direction: ltr; font-family: 'Roboto', Tahoma, Verdana, Segoe, sans-serif;font-size: 24px; font-weight: 700; letter-spacing: normal; line-height: 1.2; text-align: center; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 29px;">
+<span class="tinyMce-placeholder" style="word-break: break-word;">{{ page.title }}</span>
+</h1>
+</td>
+</tr>
+</table>
+<!--conteudo inicio-->
+{{ content }}
+<!-- conteudo final -->
+{% include footer.html %}

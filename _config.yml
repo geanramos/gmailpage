@@ -1,0 +1,14 @@
+title: "GMAIL@GEAN.ME"
+author: "eu mesmo"
+email: "exemplo@exemplo.com"
+description: "descricao em breve"
+permalink: ':title'
+image: "https://picsum.photos/600/363"
+avatar: "https://geanramos.com.br/img/avatar.png"
+baseurl: "/gmailpage"
+url: ""
+theme: minima
+markdown: kramdown
+paginate: 10
+
+
