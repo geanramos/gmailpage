@@ -26,6 +26,8 @@ a {
   color: #00f;
   text-decoration: none;
 }
+.gcr-linha-1 .gcr-col-1 .gcr-bloco-4 a,
+.gcr-linha-1 .gcr-col-1 .gcr-bloco-7 a,
 a:hover {
   color: #ff4500;
 }
