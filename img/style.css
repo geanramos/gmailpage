@@ -205,3 +205,15 @@ margin-right: 0;
 .gcr-linha-2 .gcr-col-1 .gcr-bloco-1 .gcr-icon-label a {
 color: #1e0e4b;
 }
+
+blockquote {
+background-color: #ffffff;
+  padding-bottom: 0px;
+  padding-left: 10px;
+  padding-right: 0px;
+  padding-top: 0px;
+  border-left-color: #fedb48;
+  border-left-style: solid;
+  border-left-width: 4px;
+  border-radius: 0px;
+}
