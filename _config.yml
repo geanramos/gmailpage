@@ -6,7 +6,7 @@ permalink: ':title'
 image: "https://picsum.photos/600/363"
 avatar: "https://geanramos.com.br/img/avatar.png"
 baseurl: "/gmailpage"
-url: ""
+url: "https://dev.geanramos.com.br"
 theme: minima
 markdown: kramdown
 paginate: 10
